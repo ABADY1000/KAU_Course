@@ -14,3 +14,5 @@ def power(a,b):
 def func():
     pass
     
+def func2():
+    pass
